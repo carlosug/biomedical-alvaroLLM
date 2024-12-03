@@ -43,3 +43,8 @@ python train_alvaro.py --text_path data/reports --mri_path path/to/output_direct
 python evaluate_alvaro.py --test_path path/to/test_data
 ```
 
+
+## Future directions
+- Expand datasets to include pediatric cases.
+- Add interpretability features like attention heatmaps.
+- Ensure GDPR compliance for AI in healthcare.
