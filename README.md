@@ -1,7 +1,9 @@
 # biomedical-alvaroLLM
 
 ALVARO-LLM is a framework designed to integrate multimodal data from brain MRI and clinical reports to aid in the classification of cerebrovascular conditions, particularly Cerebral Cavernous Malformations (CCMs) and Acute Intraparenchymal Hemorrhage (AIHs). 
-
+- Essay: [Analysis of the development of a LLM in Medicine: A case for
+Cerebrovascular Disorders using Large Language Models
+(ALVARO-LLM)](docs/essayCUG.pdf)
 
 ## Architecture
 
